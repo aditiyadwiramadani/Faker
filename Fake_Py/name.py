@@ -1,0 +1,18 @@
+Name = [ 
+                  'Aksa' 'Arion', 'Aliando', 'Deago',
+						'Arvin','Aliando', 'Axelle', 'Azada',         
+						'Adhitama','Azura','Abhimanyu', 'Abayomi',            
+						'Azri',  'Alvaro','Arkana',
+						 'Arrayan','Andhra','Aydin' 'Abrisam',      
+						'Achazia', 'Nana Cans', 'Endak Soeahgarman',
+						'Didi soeahrto', 'MarkZelfof', 'Bagas', 'Dwi Arsa',
+						'Windia Chan', 'Agus', 'Ivaa', 'Aric Prtama',
+						'Wibu', 'Sheilan', 'Amelia', 'Isma', 'Wuiq',
+						 'Abimanyu chan', 'ucup', 'otong', 'marfel',
+						 'Donat Trump', 'Satiawan', 'Jodi', 'Misba',
+						 'Sgiri', 'Zero Twon', 'Joni', 'Jarjit Sight',
+						 'Jarjit', 'Petrtick', 'Sodek Monata', 'Sarmani',
+						'Abinaya', 'Juliana', 'Aryo Susanto', 'Aryono',
+						 'Abimanyi', 'Asep', 'Angita', 'jamrud', 'iswa',
+						 'abi kusini', 'Johan Prasetyo', 'Bahul', 'Munir',
+						 ]
